@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA4A-012B
+
+ Directory of C:\Users\TYSS\Desktop\abcgit123
+
+28-01-2019  10:37    <DIR>          .
+28-01-2019  10:37    <DIR>          ..
+28-01-2019  10:37                 0 ax.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  29,054,267,392 bytes free

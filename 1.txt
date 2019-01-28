@@ -1,0 +1,41 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA4A-012B
+
+ Directory of C:\Users\TYSS
+
+25-01-2019  16:45    <DIR>          .
+25-01-2019  16:45    <DIR>          ..
+23-07-2018  15:19    <DIR>          .android
+05-01-2018  16:25    <DIR>          .config
+25-05-2018  10:32    <DIR>          .eclipse
+05-01-2018  16:22                55 .gitconfig
+08-02-2018  12:27    <DIR>          .jenkins
+08-06-2018  11:21    <DIR>          .m2
+25-01-2019  10:08    <DIR>          .p2
+02-04-2018  09:58    <DIR>          .soapuios
+25-05-2018  10:39    <DIR>          .tooling
+10-05-2017  18:04    <DIR>          .WebStorm2017.1
+25-01-2019  16:45                 0 1.txt
+23-07-2018  12:50    <DIR>          android-sdks
+16-08-2018  12:15    <DIR>          Atlassian
+22-03-2017  13:07    <DIR>          Contacts
+12-07-2018  15:39               345 default-soapui-workspace.xml
+25-01-2019  07:48    <DIR>          Desktop
+28-11-2018  10:26    <DIR>          Documents
+25-01-2019  10:10    <DIR>          Downloads
+25-05-2018  10:32    <DIR>          eclipse
+22-03-2017  13:07    <DIR>          Favorites
+07-01-2019  11:41    <DIR>          git
+22-03-2017  13:07    <DIR>          Links
+22-03-2017  13:07    <DIR>          Music
+22-03-2017  13:08    <DIR>          OneDrive
+02-04-2018  13:30    <DIR>          Pictures
+08-08-2018  12:38    <DIR>          runtime-EclipseApplication
+22-03-2017  13:07    <DIR>          Saved Games
+22-03-2017  13:08    <DIR>          Searches
+12-07-2018  15:39             2,289 soapui-settings.xml
+02-04-2018  09:59    <DIR>          SoapUI-Tutorials
+05-01-2018  16:22    <DIR>          TestYantraRepository
+11-04-2018  15:58    <DIR>          Videos
+               4 File(s)          2,689 bytes
+              30 Dir(s)  28,490,387,456 bytes free
