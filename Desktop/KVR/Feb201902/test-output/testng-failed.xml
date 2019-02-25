@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
-  <test thread-count="5" name="Default test(failed)(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="javaPractise.Samples">
+      <class name="javaPractise.ArrayTest">
         <methods>
-          <include name="TC04_arrs1"/>
+          <include name="fel"/>
         </methods>
-      </class> <!-- javaPractise.Samples -->
+      </class> <!-- javaPractise.ArrayTest -->
     </classes>
-  </test> <!-- Default test(failed)(failed) -->
-</suite> <!-- Failed suite [Failed suite [Default suite]] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

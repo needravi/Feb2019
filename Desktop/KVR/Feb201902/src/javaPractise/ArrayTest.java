@@ -60,7 +60,7 @@ public class ArrayTest {
 		
 	}
 	
-	@Test 
+	@Test(enabled=false)
 	public void revStr() {
 		String s = "TESTING";
 		String rev = " ";
@@ -70,6 +70,15 @@ public class ArrayTest {
 		System.out.println(rev);
 	}
 	
+	@Test
+	public void fel() {
+		int a[]= {11,22,5,14};
+		for(int i:a) {
+			System.out.println(i);
+		}
+		
+	}
+		
 /*	public static void main(String[] args) {
 		System.out.println("main method");
 	}*/

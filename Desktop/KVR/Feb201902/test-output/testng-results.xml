@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31" started-at="2019-02-22T10:35:58Z" finished-at="2019-02-22T10:35:58Z">
+  <suite name="Default suite" duration-ms="31" started-at="2019-02-25T06:25:52Z" finished-at="2019-02-25T06:25:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31" started-at="2019-02-22T10:35:58Z" finished-at="2019-02-22T10:35:58Z">
-      <class name="javaPractise.ArrayTest">
-        <test-method status="PASS" signature="revStr()[pri:0, instance:javaPractise.ArrayTest@28feb3fa]" name="revStr" duration-ms="0" started-at="2019-02-22T10:35:58Z" finished-at="2019-02-22T10:35:58Z">
+    <test name="Default test" duration-ms="31" started-at="2019-02-25T06:25:52Z" finished-at="2019-02-25T06:25:52Z">
+      <class name="programmes">
+        <test-method status="PASS" signature="fibS()[pri:0, instance:programmes@20e2cbe0]" name="fibS" duration-ms="16" started-at="2019-02-25T06:25:52Z" finished-at="2019-02-25T06:25:52Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- revStr -->
-      </class> <!-- javaPractise.ArrayTest -->
+        </test-method> <!-- fibS -->
+      </class> <!-- programmes -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
